@@ -237,7 +237,7 @@ Design: 스타일(CSS) 수정
 
 ## 강력 3팀 프론트엔드
 
-| [김동언](https://github.com/960817)                                              | [민상기](https://github.com/Steadystudy)                                         | [유용상](https://github.com/Miral3)                                              | [정지영](https://github.com/Jungjjeong)                                          |
+| [김동언](https://github.com/dong-onion)                                              | [민상기](https://github.com/Steadystudy)                                         | [유용상](https://github.com/Miral3)                                              | [정지영](https://github.com/Jungjjeong)                                          |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/92906766?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/76620786?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/59829606?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/72294509?v=4" width="150px" /> |
 | frontend Developer                                                               | frontend Developer                                                               | frontend Developer                                                               | frontend Developer                                                               |
